@@ -1,6 +1,8 @@
 # xtendothresdpd
 Performs estimations of a dynamic panel data threshold effects model with endogenous and endogeneity (regression) regressors Use xtendothresdpd and xthenreg With STATA 18
 
+https://www.youtube.com/watch?v=qTLzlxSZV-4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
